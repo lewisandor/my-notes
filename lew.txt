@@ -1,0 +1,62 @@
+activities
+--------------------------------
+- install git
+- insatll open ssh
+
+DONE
+--------------------------------
+- instal clojure
+- install emacs
+
+
+- document terminal commands
+--------------------------------
+ls = list the current directory 
+pwd = present working directory shows name of current directory
+cd <dir> = change directory to <dir>
+cd .. = change up a directory
+cp <file1> <file2> = copy file 1 to file 2 
+rm <file> = remove (delete) file 
+vi <file> = edit <file> with vi text editor 
+history= show all previous commands
+
+- document vi commands
+--------------------------------
+gg/G go to the top/bottom of my document 
+x delete character under cursor
+o/O insert line below/above current line 
+i/I insert before cursor/beggining line
+a/A=append after cursor\end of line
+/=
+n/N=(next)
+h.
+yy=yank/copy
+pp=paste 
+dd=delete line 
+hjkl these are the cursor moves up down left right
+b/e = back to beggining one word/end of next word  
+r= replace character under cursor 
+
+VERBS 
+c=change 
+d=delete
+y=yank/copy
+p=paste
+ 
+NOUNS
+c=character
+w=word
+p=paragraph
+
+d2w=delete 2 words 
+y2c=Yank 2 characters
+
+colon : puts you into command mode
+
+ COMMANDS 
+:w=save(write)
+:q=quit
+:wq=save then quit
+:q!=quit without saving
+
+

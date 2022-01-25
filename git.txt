@@ -1,0 +1,8 @@
+git status 
+theis tells tells you the stare of the current git repository.
+
+cat <file> 
+this spits out contents of the <file>
+
+Emacs 
+balls hang low your moms a hoe 
